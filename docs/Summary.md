@@ -1,6 +1,7 @@
 # Table of contents
 
 - [Introduction](Introduction.md)
+- [newfile](newfile.md)
 
 ## Walkthroughs
 
