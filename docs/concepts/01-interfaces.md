@@ -8,6 +8,8 @@ interface Text {
 }
 ```
 
+# AWESOME!
+
 Which means it must have a `text` property with a string of content.
 
 But **any** other custom properties are also allowed, and completely up to you. This lets you tailor your data to your specific domain and use case, adding whatever formatting logic you'd like, without Slate getting in the way.
